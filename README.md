@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vikrez22
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on ...
+- 📈 I seek challenging opportunities where i can fully use my skills for the success of the orgnisation.
 - 📫 How to reach me viktech22@gmail.com
 - 🔗http://cv-vikrez22.vercel.app
 
