@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Vikrez22
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning software development
-- 📈 I seek challenging opportunities where i can fully use my skills for the success of the orgnisation.
-- 📫 How to reach me viktech22@gmail.com
-- 🔗http://cv-vikrez22.vercel.app
+👋 Hi, I’m Vikrez
+Software and Web developer |PHP(Laravel, Codeigniter)|React js|Javascript|Node Js|MySQL|Python.
+I seek challenging opportunities where I can fully use my skills for the success of the organization.
+🔗http://cv-vikrez22.vercel.app
 
 <!---
 Vikrez22/Vikrez22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
