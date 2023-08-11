@@ -1,5 +1,5 @@
 👋 Hi, I’m Vikrez
-Software and Web developer |PHP(Laravel, Codeigniter)|React js|Javascript|Node Js|MySQL|Python.
+Software and Web developer | PHP(Laravel, Codeigniter)| React js| Javascript| Node Js|MySQL |Python.
 I seek challenging opportunities where I can fully use my skills for the success of the organization.
 🔗http://cv-vikrez22.vercel.app
 
