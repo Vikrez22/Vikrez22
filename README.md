@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrez22&label=Profile%20views&color=0e75b6&style=flat" alt="vikrez22" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikrez22" alt="vikrez22" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/vikre_z" target="blank"><img src="https://img.shields.io/twitter/follow/vikre_z?logo=twitter&style=for-the-badge" alt="vikre_z" /></a> </p>
+
 - 🔭 I’m currently working as a **Freelancer**
 
 - 🌱 I’m currently learning **AWS,GCP,Flask...**
