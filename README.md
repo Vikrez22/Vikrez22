@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **AAI,Cloud Computing , GCP, Flask...**
+- 🌱 I’m currently learning **AI, Cloud Computing, GCP, Flask...**
 
 - 🌱 I’m constantly **learning and exploring new technologies and tools.**
 
@@ -43,4 +43,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrez22&" alt="vikrez22" /></p>
 
+<!-- Uncomment this code later to track commits, experience, followers, and lots more... -->
 <!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikrez22" alt="vikrez22" /></a> </p>-->
