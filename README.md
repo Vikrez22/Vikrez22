@@ -7,19 +7,19 @@
 
 - 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **AWS,GCP,Flask...**
+- 🌱 I’m currently learning **AAI,Cloud Computing , GCP, Flask...**
 
 - 🌱 I’m constantly **learning and exploring new technologies and tools.**
 
 - 🔭 I’m currently working on a **Learning Management Software**
 
-- 👨‍💻 All of my projects are available at [viktech.vercel.app](viktech.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](viktech.vercel.app)
 
 - 📝 I regularly write articles on (Tech Updates)
 
 - 💬 Ask me about **Javascript, Laravel, React, Vue, Cloud computing, software live cycles/development...**
 
-- 📫 How to reach me [Email]vikrez2021@gmail.com
+- 📫 How to reach me vikrez2021@gmail.com
 
 - 📄 Know about my experiences [viktech](viktech.vercel.app)
 
