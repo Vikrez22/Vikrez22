@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](viktech.vercel.app)
 
-- 📝 I regularly write articles on (Tech Updates)
+- 📝 I regularly write articles on [(Tech Updates)](https://app.daily.dev/vikrez)
 
 - 💬 Ask me about **Javascript, Laravel, React, Vue, Cloud computing, software live cycles/development...**
 
