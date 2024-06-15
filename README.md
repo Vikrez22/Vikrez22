@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/vikre_z" target="blank"><img src="https://img.shields.io/twitter/follow/vikre_z?logo=twitter&style=for-the-badge" alt="vikre_z" /></a> </p>
 
-- 🔭 I’m currently working as a **Freelancer**
+- 🔭 I’m currently working on **multiple projects at a time**
 
-- 🌱 I’m currently learning **AI, Cloud Computing, GCP, Flask...**
+- 🌱 I’m currently learning **AI & ML, Cloud Computing, LLMs, Python(Flask)**
 
 - 🌱 I’m constantly **learning and exploring new technologies and tools.**
-
-- 🔭 I’m currently working on a **Learning Management Software**
 
 - 👨‍💻 All of my projects are available at [Portfolio](viktech.vercel.app)
 
