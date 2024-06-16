@@ -19,8 +19,6 @@
 
 - 📫 How to reach me vikrez2021@gmail.com
 
-- 📄 Know about my experiences [viktech](viktech.vercel.app)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/victor-jonah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/victor-jonah" height="30" width="40" /></a>
