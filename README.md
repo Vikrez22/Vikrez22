@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [(Tech Updates)](https://app.daily.dev/vikrez)
 
-- 💬 Ask me about **Javascript, Laravel, React, Vue, Cloud computing, software live cycles/development...**
+- 💬 Ask me about **Web Development, Cloud computing, AI & ML, LLMs...**
 
 - 📫 How to reach me vikrez2021@gmail.com
 
