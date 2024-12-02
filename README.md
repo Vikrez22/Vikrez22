@@ -16,7 +16,7 @@
 ---
 
 ### About Me
-- 🔭 **Currently working on:** Multiple projects at a time  
+- 🌱 I’m constantly **learning and exploring new technologies and tools.** 
 - 🌱 **Currently learning:** AI & ML, Cloud Computing, LLMs, and Python (Flask)  
 - 🌟 **Always exploring:** New technologies and tools  
 - 👨‍💻 **Projects Portfolio:** [GitHub](https://github.com/vikrez22)  
