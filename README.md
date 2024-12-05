@@ -18,7 +18,7 @@
 ### About Me
 - 🌱 I’m constantly **learning and exploring new technologies and tools.** 
 - 🌱 **Currently learning:** AI & ML, Cloud Computing, LLMs, and Python (Flask)  
-- 🌟 **Always exploring:** New technologies and tools  
+- 🌟 **Always exploring** 
 - 👨‍💻 **Projects Portfolio:** [GitHub](https://github.com/vikrez22)  
 - 📝 **Articles & Blogs:** [Daily Dev](https://app.daily.dev/vikrez)  
 - 💬 **Ask me about:** Web Development, Cloud Computing, AI & ML, and more  
