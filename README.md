@@ -111,6 +111,8 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrez22" alt="GitHub Streak Stats" />
 </p>
 
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikrez22&theme=radical
+
 
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats -->
 
