@@ -102,13 +102,13 @@
 
 ### Stats
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrez22&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrez22&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikrez22&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikrez22&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrez22" alt="GitHub Streak Stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrez22&theme=radical" alt="GitHub Streak Stats" />
 </p>
 <p>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikrez22&theme=radical" alt="GitHub Profile Details" />
