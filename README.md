@@ -21,7 +21,7 @@
 - 👨‍💻 **Projects Portfolio:** [GitHub](https://github.com/vikrez22)  
 - 📝 **Articles & Blogs:** [Daily Dev](https://app.daily.dev/vikrez)  
 - 💬 **Ask me about:** Web Development, Cloud Computing, AI & ML, and more  
-- 📫 **Reach me at:** [Email](vikrez2021@gmail.com)  
+- 📫 **Reach me at:** [Email](mailto:vikrez2021@gmail.com)
 
 ---
 
