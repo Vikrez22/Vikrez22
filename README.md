@@ -21,7 +21,7 @@
 - 👨‍💻 **Projects Portfolio:** [GitHub](https://github.com/vikrez22)  
 - 📝 **Articles & Blogs:** [Daily Dev](https://app.daily.dev/vikrez)  
 - 💬 **Ask me about:** Web Development, Cloud Computing, AI & ML, and more  
-- 📫 **Reach me at:** vikrez2021@gmail.com  
+- 📫 **Reach me at:** [Email](vikrez2021@gmail.com)  
 
 ---
 
@@ -102,7 +102,7 @@
 
 ### Stats
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrez22&show_icons=true&locale=en&theme=radical" alt="Top Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrez22&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikrez22&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
