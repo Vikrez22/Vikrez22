@@ -38,9 +38,9 @@
     <a href="https://stackoverflow.com/users/20241298/vikrez" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
     </a>
-    <a href="https://codesandbox.io/u/vikrez22" target="_blank">
+    <!-- <a href="https://codesandbox.io/u/vikrez22" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" />
-    </a>
+    </a> -->
     <a href="https://www.facebook.com/vikteck" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
     </a>
