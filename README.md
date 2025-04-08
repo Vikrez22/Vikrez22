@@ -107,7 +107,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikrez22&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p> -->
 <p>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikrez22&theme=radical" alt="GitHub Profile Details" />
+    <img align="center" style="margin-top: 10" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikrez22&theme=radical" alt="GitHub Profile Details" />
 </p> 
 
 
