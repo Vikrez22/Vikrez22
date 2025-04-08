@@ -96,7 +96,7 @@
 
 ---
 
-### Stats
+<!-- ### Stats
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrez22&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -108,7 +108,8 @@
 </p>
 <p>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikrez22&theme=radical" alt="GitHub Profile Details" />
-</p>
+</p> 
+-->
 
 
 <!-- Uncomment this code later to track commits, experience, followers, and lots more... -->
