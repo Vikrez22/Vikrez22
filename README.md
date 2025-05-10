@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikrez</h1>
 <h3 align="center">
-    Passionate software developer with a keen interest in building scalable and efficient applications. Welcome to my GitHub profile!
+    Passionate Full-Stack Web developer with a keen interest in building scalable and efficient applications. Welcome to my GitHub profile!
 </h3>
 
 <p align="center">
