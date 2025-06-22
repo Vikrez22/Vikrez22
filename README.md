@@ -1,7 +1,7 @@
 # Hi 👋, I'm Vikrez
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=vikrez22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <!--<img src="https://komarev.com/ghpvc/?username=vikrez22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />-->
     <a href="https://twitter.com/vikre_z" target="_blank">
         <img src="https://img.shields.io/twitter/follow/vikre_z?logo=twitter&style=for-the-badge" alt="Follow @vikre_z" />
     </a>
@@ -28,9 +28,9 @@ Full-Stack Development
     <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="30" height="30" />
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="30" height="30" style="filter: invert(1);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="30" height="30" style="color: white" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30" />
@@ -51,7 +51,7 @@ Cloud & DevOps
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="30" height="30" style="filter: invert(1);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="30" height="30" style="color: white" />
 </p>
 Databases
 <p align="left">
