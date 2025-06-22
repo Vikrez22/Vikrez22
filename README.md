@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vikrez
 
-<p align="center">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=vikrez22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <a href="https://twitter.com/vikre_z" target="_blank">
         <img src="https://img.shields.io/twitter/follow/vikre_z?logo=twitter&style=for-the-badge" alt="Follow @vikre_z" />
@@ -17,7 +17,8 @@
 - 📫 Reach me at: [Email](mailto:vikrez2021@gmail.com)
 - 📝 Check out my articles on [Daily Dev](https://app.daily.dev/vikrez)
 
-🛠️ Key Technologies & Areas of Expertise
+## 🛠️ Key Technologies & Areas of Expertise
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -27,19 +28,20 @@ Full-Stack Development
     <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="30" height="30" />
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="30" height="30" style="filter: invert(1);" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" />
 </p>
 AI/ML, IoT & Embedded Systems
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="30" height="30" />
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/tinkercad.svg" alt="Tinkercad" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Circuit Design" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="API Development" width="30" height="30" />
 </p>
 </td>
@@ -49,7 +51,7 @@ Cloud & DevOps
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="30" height="30" style="filter: invert(1);" />
 </p>
 Databases
 <p align="left">
@@ -65,9 +67,10 @@ Tools & Design
 </td>
 </tr>
 </table>
+
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrez22&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
