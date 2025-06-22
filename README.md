@@ -1,11 +1,11 @@
 # Hi 👋, I'm Vikrez
 
-<p align="left">
-    <!--<img src="https://komarev.com/ghpvc/?username=vikrez22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />-->
+<!--<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=vikrez22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <a href="https://twitter.com/vikre_z" target="_blank">
         <img src="https://img.shields.io/twitter/follow/vikre_z?logo=twitter&style=for-the-badge" alt="Follow @vikre_z" />
     </a>
-</p>
+</p>-->
 
 **Passionate Full-Stack Web Developer** with a keen interest in building scalable and efficient applications. Welcome to my GitHub profile!
 
@@ -102,6 +102,9 @@ Tools & Design
     </a>
     <a href="https://www.instagram.com/vik_rez/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+    <a href="https://www.tiktok.com/@vik_rez" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="30" width="40" />
     </a>
 </p>
 
