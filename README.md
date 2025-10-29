@@ -1,11 +1,11 @@
 # Hi 👋, I'm Vikrez
 
-<!--<p align="left">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=vikrez22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <a href="https://twitter.com/vikre_z" target="_blank">
         <img src="https://img.shields.io/twitter/follow/vikre_z?logo=twitter&style=for-the-badge" alt="Follow @vikre_z" />
     </a>
-</p>-->
+</p>
 
 **Passionate Full-Stack Web Developer** with a keen interest in building scalable and efficient applications. I solve real world problems leveraging on technology. <br/> Welcome to my GitHub profile!
 
