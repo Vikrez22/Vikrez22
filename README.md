@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vikrez
+# Hi 👋, I'm Vikrez a Software Engineer 
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=vikrez22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -6,7 +6,13 @@
         <img src="https://img.shields.io/twitter/follow/vikrez_dev?logo=twitter&style=for-the-badge" alt="Follow @vikrez_dev" /> -->
     </a> 
 </p>
+<h4>I create websites and systems that help businesses grow.
 
+I code, I design, I debug, I deploy.
+I handle clients, I fix issues, I optimize, I pray.
+
+I don’t stop until everything works.
+I don’t sleep — I build.</h4>
 **Welcome to my GitHub profile!👋**
 
 ## 🚀 About Me
