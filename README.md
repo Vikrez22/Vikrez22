@@ -7,7 +7,7 @@
     </a> 
 </p>
 
-**Passionate Full-Stack Web Developer** with a keen interest in building scalable and efficient applications. I solve real world problems leveraging on technology. <br/> Welcome to my GitHub profile!
+**Welcome to my GitHub profile!👋**
 
 ## 🚀 About Me
 
