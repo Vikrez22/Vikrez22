@@ -1,9 +1,9 @@
 # Hi 👋, I'm Vikrez a Software Engineer 
  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=vikrez22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    <a href="https://x.com/vikrez_dev" target="_blank">
+    <!-- </p><a href="https://x.com/vikrez_dev" target="_blank">
         <img src="https://img.shields.io/twitter/follow/vikrez_dev?logo=twitter&style=for-the-badge" alt="Follow @vikrez_dev" /> 
-    </a> 
+    </a> -->
 </p> 
 <h4>I create websites and systems that help businesses grow.</h4>
 
