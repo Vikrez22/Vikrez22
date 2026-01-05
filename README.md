@@ -1,157 +1,128 @@
-<div align="center">
-
-# 👋 Hi, I'm Vikrez
-### Software Engineer | Full-Stack Developer | Problem Solver
-
-![Profile Views](https://komarev.com/ghpvc/?username=vikrez22&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
-
----
-
-<div align="center">
-
-```
-I create websites and systems that help businesses grow.
+# Hi 👋, I'm Vikrez a Software Engineer 
+ <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=vikrez22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p> 
+<h4>I create websites and systems that help businesses grow.</h4>
 
 I code, I design, I debug, I deploy.
 I handle clients, I fix issues, I optimize, I pray.
 
 I don't stop until everything works.
-I don't sleep — I build.
-```
-
-</div>
-
----
+I don't sleep — I build.</h4>
+**Welcome to my GitHub profile!👋**
 
 ## 🚀 About Me
 
-- 🔭 Building innovative **web applications and cloud solutions**
-- 🌱 Constantly **learning and exploring new technologies**
+- 🌱 I'm constantly **learning and exploring new technologies and tools**
+- 👨‍💻 Building innovative web applications and solutions
 - 💬 Ask me about **Web Development, Cloud Computing, AI & ML**
-- 📫 Email: **vikrez2021@gmail.com**
-- 📝 Articles: **[Daily Dev](https://app.daily.dev/vikrez)**
-- ⚡ Fun fact: **I don't stop until everything works!**
+- 📫 Reach me at: [Email](mailto:vikrez2021@gmail.com)
+- 📝 Check out my articles on [Daily Dev](https://app.daily.dev/vikrez)
 
----
+## 🛠️ Key Technologies & Areas of Expertise
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Languages
-```
-PHP  •  Python  •  JavaScript  •  TypeScript  •  C++  •  SQL
-```
+**Full-Stack Development**
 
-### Frontend
-```
-React.js  •  Vue.js  •  Next.js  •  HTML5  •  CSS3  •  Tailwind
-```
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" />
+</p>
 
-### Backend
-```
-Node.js  •  Laravel  •  CodeIgniter  •  Flask  •  Express.js
-```
+**AI/ML, IoT & Embedded Systems**
 
-### Databases
-```
-MySQL  •  MongoDB  •  Firebase  •  PostgreSQL
-```
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="API Development" width="30" height="30" />
+</p>
 
-### Cloud & DevOps
-```
-Azure  •  Docker  •  Git  •  GitHub Actions  •  CI/CD
-```
+</td>
+<td width="50%" valign="top">
 
-### AI/ML & IoT
-```
-TensorFlow  •  Arduino  •  Raspberry Pi  •  Machine Learning
-```
+**Cloud & DevOps**
 
-### Tools
-```
-VS Code  •  Figma  •  Postman  •  Git  •  npm/yarn
-```
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="30" height="30" />
+</p>
 
----
+**Databases**
+
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30" />
+</p>
+
+**Tools & Design**
+
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/vikrez22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikrez22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrez22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
+<div align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrez22&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrez22&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=vikrez22&show_icons=true&locale=en&theme=radical&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vikrez22&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies" />
-
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrez22&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [linkedin.com/in/vikrez](https://linkedin.com/in/vikrez/) |
-| 🐦 Twitter | [@vikre_z](https://x.com/vikre_z) |
-| 📚 Stack Overflow | [vikrez](https://stackoverflow.com/users/20241298/vikrez) |
-| 🎨 CodePen | [victor-jonah](https://codepen.io/victor-jonah) |
-| 📰 Daily.dev | [vikrez](https://app.daily.dev/vikrez) |
-| 📘 Facebook | [vikteck](https://www.facebook.com/vikteck) |
-| 📷 Instagram | [@vik_rez](https://www.instagram.com/vik_rez/) |
-| 🎵 TikTok | [@vik_rez](https://www.tiktok.com/@vik_rez) |
-
-</div>
+<p align="center">
+    <a href="https://linkedin.com/in/vikrez/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://x.com/vikre_z" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" />
+    </a>
+    <a href="https://stackoverflow.com/users/20241298/vikrez" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+    </a>
+    <a href="https://codepen.io/victor-jonah" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
+    </a>
+    <a href="https://www.facebook.com/vikteck" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    </a>
+    <a href="https://www.instagram.com/vik_rez/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+    <a href="https://www.tiktok.com/@vik_rez" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="30" width="40" />
+    </a>
+</p>
 
 ---
 
-<div align="center">
-
-### 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikrez22&theme=tokyo-night&hide_border=true&area=true)](https://github.com/vikrez22)
-
-</div>
-
----
-
-<div align="center">
-
-**💬 "Let's connect and build something amazing together!"**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-⭐️ From [Vikrez](https://github.com/vikrez22)
-
-</div>
+<p align="center">
+    <i>Let's connect and build something amazing together! 🚀</i>
+</p>
