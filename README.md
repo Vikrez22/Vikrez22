@@ -9,9 +9,9 @@ I handle clients, I fix issues, I optimize, I pray.
 
 I don't stop until everything works.
 I don't sleep — I build.</h4>
-**Welcome to my GitHub profile!👋**
+**Welcome to my GitHub profile!**
 
-## 🚀 About Me
+##  About Me
 
 - 🌱 I'm constantly **learning and exploring new technologies and tools**
 - 👨‍💻 Building innovative web applications and solutions
@@ -81,24 +81,18 @@ I don't sleep — I build.</h4>
 </tr>
 </table>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrez22&theme=radical" alt="GitHub Streak Stats" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=vikrez22&theme=radical)
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=vikrez22&show_icons=true&locale=en&theme=radical&count_private=true" alt="GitHub Stats" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikrez22&show_icons=true&theme=radical)
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrez22&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vikrez22&layout=compact&theme=radical)
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
-    <a href="https://linkedin.com/in/vikrez/" target="_blank">
+    <a href="https://linkedin.com/in/victorjonahdev/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://x.com/vikre_z" target="_blank">
@@ -107,8 +101,6 @@ I don't sleep — I build.</h4>
     <a href="https://stackoverflow.com/users/20241298/vikrez" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
     </a>
-    <a href="https://codepen.io/victor-jonah" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/vikteck" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
@@ -116,13 +108,10 @@ I don't sleep — I build.</h4>
     <a href="https://www.instagram.com/vik_rez/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
-    <a href="https://www.tiktok.com/@vik_rez" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="30" width="40" />
-    </a>
 </p>
 
 ---
 
 <p align="center">
-    <i>Let's connect and build something amazing together! 🚀</i>
+    <i>Let's connect and build something amazing together! </i>
 </p>
