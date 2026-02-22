@@ -85,9 +85,9 @@ I don't sleep — I build.</h4>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vikrez22&theme=radical)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vikrez22&show_icons=true&theme=radical)
+![GitHub Stats](github-readme-stats-git-master-victor-jonahs-projects.vercel.app/api?username=vikrez22&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vikrez22&layout=compact&theme=radical)
+![Top Languages](github-readme-stats-git-master-victor-jonahs-projects.vercel.app/api/top-langs/?username=vikrez22&layout=compact&theme=radical)
 
 ## Connect With Me
 
