@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vikrez
+# Hi 👋, I'M VICTOR JONAH 
  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=vikrez22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p> 
