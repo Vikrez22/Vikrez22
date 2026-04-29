@@ -66,7 +66,7 @@ I don't stop until everything works. I don't sleep — I build.
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## GitHub Stats
 
@@ -80,11 +80,11 @@ I don't stop until everything works. I don't sleep — I build.
 
 <br/><br/>
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrez22&theme=tokyo-night&hide_border=true&radius=8" alt="Contribution Graph" /> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrez22&theme=tokyo-night&hide_border=true&radius=8" alt="Contribution Graph" /> 
 
-</div>
+</div> 
 
----
+--- -->
 
 <!-- <div align="center">
 
@@ -106,8 +106,6 @@ I don't stop until everything works. I don't sleep — I build.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorjonahdev/)
 [![Twitter / X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vikre_z)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20241298/vikrez)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vik_rez/)
-[![Daily Dev](https://img.shields.io/badge/Daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/vikrez)
 [![Website](https://img.shields.io/badge/Portfolio-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=black)](https://victorjonah.dev)
 
 <br/>
