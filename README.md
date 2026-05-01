@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Victor+Jonah;Full-Stack+Engineer+%7C+AI+Developer;I+code%2C+design%2C+debug%2C+deploy.;I+don't+stop+until+it+works.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Victor+Jonah;Full-Stack+Engineer+%7C+AI+Developer;I+code%2C+design%2C+debug%2C+deploy.;I+don't+stop+until+it+works.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=vikrez22&label=Profile+Views&color=00F5A0&style=flat-square" alt="Profile Views" />
 
